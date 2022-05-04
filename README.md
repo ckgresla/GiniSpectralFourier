@@ -19,12 +19,14 @@ If you have any questions feel free to reach out to me- https://ckgresla.github.
 
 Huge thanks to: 
 
-Justifying recommendations using distantly-labeled reviews and fined-grained aspects 
-Jianmo Ni, Jiacheng Li, Julian McAuley
-Empirical Methods in Natural Language Processing (EMNLP), 2019
+- Professor Kyle Cheek & the Center for Applied Analytics
 
-G-Research for the aggregation of Crypto Data
+- Justifying recommendations using distantly-labeled reviews and fined-grained aspects 
+	Jianmo Ni, Jiacheng Li, Julian McAuley
+	Empirical Methods in Natural Language Processing (EMNLP), 2019
 
-fmpcloud for the free API & historical markets data
+- G-Research for the aggregation of Crypto Data
+
+- fmpcloud for the free API & historical markets data
 
 
